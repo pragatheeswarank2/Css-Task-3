@@ -1,0 +1,19 @@
+#Title{
+    padding: 10px;
+    border:solid black 1px;
+    background-color: rgb(184, 180, 180);
+    text-align: center;
+}
+.paragraphwrapper{
+    padding: 3px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: azure;
+    border:solid black 1px;
+}
+#paragraph{
+    padding: 5px;
+    border:solid black 1px;
+    background-color: rgb(184, 180, 180);
+    text-align: center;
+}
