@@ -1,3 +1,6 @@
+*{
+    padding: 0 !important;
+}
 #Title{
     padding: 10px;
     border:solid black 1px;
